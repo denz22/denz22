@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denz22
 - 👀 I’m interested in book's , video game's,sport
-- 🌱 I’m currently learning c/C++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on mail(cioabaana370@gmail.com) 
 
